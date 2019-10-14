@@ -1,2 +1,5 @@
-./node_modules
-./node-firebase-128ae-firebase-adminsdk-4hulp-57c2c76408.json
+node_modules/
+
+package-lock.json
+
+node-firebase-128ae-firebase-adminsdk-4hulp-0335a764be.json
